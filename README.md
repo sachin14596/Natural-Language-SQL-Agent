@@ -35,8 +35,9 @@ A fully working **Autonomous LLM Agent** that:
 
 ## 📸 Demo Video
 
+https://github.com/user-attachments/assets/7dec4864-3d8d-4666-955e-5201121be082
 
-https://github.com/user-attachments/assets/9d5b3f3f-8dc9-4607-ae6f-ad436972e5d3
+
 
 
 ---
