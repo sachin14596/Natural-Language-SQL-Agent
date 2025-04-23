@@ -26,10 +26,12 @@ A fully working **Autonomous LLM Agent** that:
 
 ---
 
-## 📸 Demo Preview
+## 📸 Flow
 
-![Agentic Flow](./langgraph_sql_agent_workflow.png)  
-![Visual Explainer](./image.png)
+![image](https://github.com/user-attachments/assets/76e31c68-c0f4-46fa-b12b-5eb5b7639181)
+![langgraph_sql_agent_workflow](https://github.com/user-attachments/assets/c12cc367-808a-46dd-8f03-e0b139ea5f3c)
+
+
 
 ---
 
